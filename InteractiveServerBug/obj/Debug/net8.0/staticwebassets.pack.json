@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\UX\\InteractiveServerBug\\InteractiveServerBug\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\InteractiveServerBug.bundle.scp.css",
+      "PackagePath": "staticwebassets\\InteractiveServerBug.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Projects\\UX\\InteractiveServerBug\\InteractiveServerBug\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Projects\\UX\\InteractiveServerBug\\InteractiveServerBug\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\UX\\InteractiveServerBug\\InteractiveServerBug\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\UX\\InteractiveServerBug\\InteractiveServerBug\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.InteractiveServerBug.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.InteractiveServerBug.props",
+      "PackagePath": "build\\InteractiveServerBug.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.InteractiveServerBug.props",
+      "PackagePath": "buildMultiTargeting\\InteractiveServerBug.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.InteractiveServerBug.props",
+      "PackagePath": "buildTransitive\\InteractiveServerBug.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

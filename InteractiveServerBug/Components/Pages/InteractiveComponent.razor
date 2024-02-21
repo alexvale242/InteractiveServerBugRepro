@@ -1,0 +1,11 @@
+<h3>InteractiveComponent</h3>
+@rendermode InteractiveServer
+
+@code {
+    protected override void OnAfterRender(bool firstRender)
+    {
+        Console.WriteLine("I've rendered");
+        base.OnAfterRender(firstRender);
+    }
+
+}
